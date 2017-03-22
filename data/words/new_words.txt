@@ -1,0 +1,15 @@
+jail
+prison
+stocks
+gibet
+wharf
+fen
+anteroom
+kitchen
+bedroom
+closet
+privy
+outhouse
+crossroad
+levee
+footprint
